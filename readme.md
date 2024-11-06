@@ -9,12 +9,16 @@ Usage of rcode:
         save current configuration to a conf file in the executable path
   -server-addr string
         server address
+  -server-debug
+        server debug
   -server-mode
         server mode
   -server-port int
         server port
+  -token string
+        access token
   -verbose
         verbose mode
   -version
-        show version
+        show versio
 ```
